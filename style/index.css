@@ -1,0 +1,21 @@
+body{
+    /* background-color: whitesmoke; */
+    background-color: gray;
+    font-family: Arial, Helvetica;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+
+.portfolio_div{
+    background-color: white;
+}
+
+.small_info{
+    background-color: black;
+}
+
+.image_div{
+    background-color: blue;
+}
