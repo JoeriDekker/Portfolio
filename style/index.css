@@ -1,16 +1,18 @@
 body{
     /* background-color: whitesmoke; */
-    background-color: gray;
+    background-color: black;
     font-family: Arial, Helvetica;
+    color: #999;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
+    color: white;
   }
 
-.portfolio_div{
-    background-color: white;
-}
+/* .portfolio_div{
+    
+} */
 
 .small_info{
     background-color: black;
@@ -18,4 +20,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .image_div{
     background-color: blue;
+}
+
+.progress_bar_color{
+    background-color: #ffbd39;
+    font-size: 15px;
 }
