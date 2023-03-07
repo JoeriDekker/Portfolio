@@ -19,8 +19,14 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #1C768F;
     font-weight: 700;
 }
+
+.navbar-toggler{
+    background-color: #FBF3F2;
+    color: black;
+}
+
 .navbar-brand{
-    color: #FBF3F2;
+    color: #FBF3F2 !important ;
     font-weight: 700;
     border-bottom: 5px solid transparent ;
 }
