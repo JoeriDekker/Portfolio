@@ -51,11 +51,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .small_info{
-    border: 1px #1C768F solid;
 }
 
 .image_div{
-    border: 1px #1C768F solid;
 }
 
 .card{
@@ -85,4 +83,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .over_mij_section, .section_class{
     background-color: #fff;
+}
+
+.ervaring_section{
+
+}
+
+.school_section, .werk_section{
+    background-color: white;
+    height: 100%;
 }
