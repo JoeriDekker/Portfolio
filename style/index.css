@@ -15,6 +15,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #032539;
 }
 
+.image{
+    max-height: 400px;
+}
+
 .navbar{
     background-color: #1C768F;
     font-weight: 700;
@@ -50,11 +54,11 @@ h1, h2, h3, h4, h5, h6 {
     text-shadow: #FA991C 1px 0 10px;
 }
 
-.small_info{
+.name{
+    margin: auto;
 }
 
-.image_div{
-}
+
 
 .card{
     background-color: white;
